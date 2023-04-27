@@ -1,0 +1,7 @@
+asttokens==2.2.1
+Flask==2.2.3
+gpt_index==0.5.10
+ipython==8.12.0
+langchain==0.0.150
+openai==0.27.3
+gunicorn==20.1.0
